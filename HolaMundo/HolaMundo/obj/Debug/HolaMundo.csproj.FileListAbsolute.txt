@@ -1,0 +1,11 @@
+C:/Users/bg.rodriguez/iCloudDrive/Documents/eLearning/UDEMY/07 Curso para Aprender CSharp/HolaMundo/HolaMundo/bin/Debug/HolaMundo.exe
+C:/Users/bg.rodriguez/iCloudDrive/Documents/eLearning/UDEMY/07 Curso para Aprender CSharp/HolaMundo/HolaMundo/bin/Debug/HolaMundo.pdb
+C:/Users/bg.rodriguez/iCloudDrive/Documents/eLearning/UDEMY/07 Curso para Aprender CSharp/HolaMundo/HolaMundo/obj/Debug/HolaMundo.csprojAssemblyReference.cache
+C:/Users/bg.rodriguez/iCloudDrive/Documents/eLearning/UDEMY/07 Curso para Aprender CSharp/HolaMundo/HolaMundo/obj/Debug/HolaMundo.exe
+C:/Users/bg.rodriguez/iCloudDrive/Documents/eLearning/UDEMY/07 Curso para Aprender CSharp/HolaMundo/HolaMundo/obj/Debug/HolaMundo.pdb
+/Users/min/Documents/eLearning/UDEMY/07 Curso para Aprender CSharp/HolaMundo/HolaMundo/bin/Debug/HolaMundo.exe
+/Users/min/Documents/eLearning/UDEMY/07 Curso para Aprender CSharp/HolaMundo/HolaMundo/bin/Debug/HolaMundo.pdb
+/Users/min/Documents/eLearning/UDEMY/07 Curso para Aprender CSharp/HolaMundo/HolaMundo/obj/Debug/HolaMundo.csprojAssemblyReference.cache
+/Users/min/Documents/eLearning/UDEMY/07 Curso para Aprender CSharp/HolaMundo/HolaMundo/obj/Debug/HolaMundo.exe
+/Users/min/Documents/eLearning/UDEMY/07 Curso para Aprender CSharp/HolaMundo/HolaMundo/obj/Debug/HolaMundo.pdb
+/Users/min/Documents/eLearning/UDEMY/07 Curso para Aprender CSharp/HolaMundo/HolaMundo/obj/Debug/HolaMundo.csproj.CoreCompileInputs.cache
